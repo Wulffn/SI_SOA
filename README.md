@@ -1,1 +1,2 @@
-# SI_SOA
+# SOA vs SaaS
+SOA is a manufacturing model which deals with designing and building software by applying the service oriented computing principles to software solutions, while SaaS is a model for sales and distribution of software applications. In simpler terms, SaaS is a means of delivering software as services over the internet to its subscribers, while SOA is an architectural model in which the smallest unit of logic is a service. So, SOA (an architectural strategy) and SaaS (a business model) cannot be directly compared.
